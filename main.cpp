@@ -1,3 +1,6 @@
+// Copyright (C)
+// Author: Dylan Muller
+
 #include <iostream>
 #include <link.h>
 #include <fstream>
