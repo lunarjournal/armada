@@ -1,3 +1,6 @@
+// Copyright (C)
+// Author: Dylan Muller
+
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
